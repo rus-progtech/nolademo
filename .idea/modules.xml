@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nola.iml" filepath="$PROJECT_DIR$/.idea/modules/nola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nola/nola-rt/nola.nola-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nola/nola-rt/nola.nola-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nola/nola-wb/nola.nola-wb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nola/nola-wb/nola.nola-wb.main.iml" />
+    </modules>
+  </component>
+</project>
